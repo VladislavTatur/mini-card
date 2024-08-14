@@ -15,6 +15,7 @@ function App() {
       <Box>
         <Container>
 
+
           <ImgStyled src={Rectangle} alt="Rectangle"/>
 
           <Heading>Headline</Heading>

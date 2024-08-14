@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-card/static/css/main.31d6cfe0.css",
+    "main.js": "/mini-card/static/js/main.73962046.js",
+    "static/js/453.cc224e48.chunk.js": "/mini-card/static/js/453.cc224e48.chunk.js",
+    "static/media/Rectangle 1.svg": "/mini-card/static/media/Rectangle 1.d3998c2a5857d2669c1b56961497aacd.svg",
+    "index.html": "/mini-card/index.html",
+    "main.73962046.js.map": "/mini-card/static/js/main.73962046.js.map",
+    "453.cc224e48.chunk.js.map": "/mini-card/static/js/453.cc224e48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.73962046.js"
+  ]
+}
